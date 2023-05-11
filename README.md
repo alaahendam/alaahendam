@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alaa Hendam</h1>
 <h3 align="center">Full-stack web developer From Egypt.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alaahendam&label=Profile%20views&color=0e75b6&style=flat" alt="alaahendam" /> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
